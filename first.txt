@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 first edit in first.txt file after creating a feature one branch
 it is for pratice to learn mergingnow i am in feature three witch is created from feature1
+=======
+hithis is in feature 2 which is directly divided from main
+>>>>>>> feature2
