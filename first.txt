@@ -1,0 +1,2 @@
+first edit in first.txt file after creating a feature one branch
+it is for pratice to learn merging
